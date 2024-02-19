@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,cinemax.com,HBOmax
+  - DOMAIN-SUFFIX,hbomax.com,HBOmax
+  - DOMAIN-SUFFIX,hbomaxcdn.com,HBOmax
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,HBOmax
+  - DOMAIN-SUFFIX,hbonow.com,HBOmax
+  - DOMAIN-SUFFIX,maxgo.com,HBOmax
+  - PROCESS-NAME,com.hbo.hbonow,HBOmax

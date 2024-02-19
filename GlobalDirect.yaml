@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,grammarly.io
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,ipaomtk.com
   - DOMAIN-SUFFIX,ipamody.com

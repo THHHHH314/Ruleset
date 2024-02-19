@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,grammarly.com,DIRECT
-  - DOMAIN-SUFFIX,1password.com,DIRECT
-  - DOMAIN-SUFFIX,ipaomtk.com,DIRECT
-  - DOMAIN-SUFFIX,ipamody.com,DIRECT
-  - DOMAIN-SUFFIX,tweakhome.app,DIRECT
+  - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,ipaomtk.com
+  - DOMAIN-SUFFIX,ipamody.com
+  - DOMAIN-SUFFIX,tweakhome.app

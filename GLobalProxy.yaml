@@ -3,6 +3,6 @@ payload:
   - DOMAIN-SUFFIX,flowercloud.net
   - DOMAIN-SUFFIX,flowercloud.xyz
   - DOMAIN-SUFFIX,op.gg
-  - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,subhd.com
+  - DOMAIN-SUFFIX,oyunfor.com  
+  - DOMAIN-SUFFIX,subhd.tv

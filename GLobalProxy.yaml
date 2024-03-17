@@ -1,10 +1,16 @@
 payload:
+#机场
   - DOMAIN-SUFFIX,flower.yt
   - DOMAIN-SUFFIX,flowercloud.net
   - DOMAIN-SUFFIX,flowercloud.xyz
+  - DOMAIN-SUFFIX,nexitally.com
+  - DOMAIN-SUFFIX,limbopro.com
+  - DOMAIN-SUFFIX,limbopro.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,subhd.com
   - DOMAIN-SUFFIX,oyunfor.com  
   - DOMAIN-SUFFIX,subhd.tv
-  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ipify.org:443
   - DOMAIN-SUFFIX,ip.sb

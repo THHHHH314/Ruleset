@@ -10,9 +10,16 @@ payload:
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,duyaoss.com
+  #测速
+  - DOMAIN-SUFFIX,ipify.org:443
+  - DOMAIN-SUFFIX,ip.sb
+  #其他
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,subhd.com
   - DOMAIN-SUFFIX,oyunfor.com  
   - DOMAIN-SUFFIX,subhd.tv
-  - DOMAIN-SUFFIX,ipify.org:443
-  - DOMAIN-SUFFIX,ip.sb
+  #福利吧
+  - DOMAIN-SUFFIX,fuliba2024.net
+  - DOMAIN-SUFFIX,fuliba2023.net
+  - DOMAIN-SUFFIX,fuliba123.net
+  - DOMAIN-SUFFIX,fulibavip.net

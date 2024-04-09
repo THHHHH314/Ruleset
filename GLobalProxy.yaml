@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,duyaoss.com
+#Apple
+  - DOMAIN-SUFFIX,push.apple.com
   #测速
   - DOMAIN-SUFFIX,ipify.org:443
   - DOMAIN-SUFFIX,ip.sb
